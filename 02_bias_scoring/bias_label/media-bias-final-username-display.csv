@@ -1,0 +1,664 @@
+Media,Type,Username,bias,displayname,id_str
+The Hill,username,thehill,Center,The Hill,1917731
+The Washington Post,username,washingtonpost,Left Leaning,The Washington Post,2467791
+The Washington Post,username,PostOpinions,Left Leaning,Washington Post Opinions,14345812
+The Washington Post,username,postopinions,Left Leaning,Washington Post Opinions,14345812
+The Washington Post,username,postpolitics,Left Leaning,Post Politics,14345062
+The New York Times,username,nytimes,Left Leaning,The New York Times,807095
+The New York Times,username,nytopinion,Left Leaning,New York Times Opinion,16686144
+The New York Times,username,NYTPolitics,Left Leaning,NYT Politics,14434063
+The New York Times,username,nytclimate,Left Leaning,NYT Climate,14603515
+The New York Times,username,NYTNational,Left Leaning,NYT National News,1767741
+The New York Times,username,nytnational,Left Leaning,NYT National News,1767741
+The New York Times,username,NYTHealth,Left Leaning,NYT Health,1769551
+Cable News Network,username,CNN,Left Leaning,CNN,759251
+Cable News Network,username,cnn,Left Leaning,CNN,759251
+Cable News Network,username,CNNPolitics,Left Leaning,CNN Politics,13850422
+Cable News Network,username,cnnpolitics,Left Leaning,CNN Politics,13850422
+Cable News Network,username,CNNBRK,Left Leaning,CNN Breaking News,428333
+Cable News Network,username,CNNSOTU,Left Leaning,State of the Union,17112878
+Cable News Network,username,CNNSotu,Left Leaning,State of the Union,17112878
+Cable News Network,username,cnnsotu,Left Leaning,State of the Union,17112878
+Cable News Network,username,TheLeadCNN,Left Leaning,The Lead CNN,1176994477
+Cable News Network,username,theleadcnn,Left Leaning,The Lead CNN,1176994477
+Cable News Network,username,CNNPR,Left Leaning,CNN Communications,71349174
+Cable News Network,username,cnnpr,Left Leaning,CNN Communications,71349174
+Cable News Network,username,CNNThisMorning,Left Leaning,CNN This Morning with Kasie Hunt,1375289149
+Cable News Network,username,AC360,Left Leaning,Anderson Cooper 360°,227837742
+Cable News Network,username,ac360,Left Leaning,Anderson Cooper 360°,227837742
+Cable News Network,username,NewsCentralCNN,Left Leaning,CNN News Central,9567972
+Cable News Network,username,CNNEE,Left Leaning,CNN en Español,33884545
+Cable News Network,username,cnnee,Left Leaning,CNN en Español,33884545
+Cable News Network,username,CNNBusiness,Left Leaning,CNN Business,16184358
+Cable News Network,username,cnnbusiness,Left Leaning,CNN Business,16184358
+Cable News Network,username,cnni,Left Leaning,CNN International,2097571
+Cable News Network,username,OutFrontCNN,Left Leaning,Erin Burnett OutFront,361342191
+Cable News Network,username,outfrontcnn,Left Leaning,Erin Burnett OutFront,361342191
+Cable News Network,username,CNNOpinion,Left Leaning,CNN Opinion,259074538
+Cable News Network,username,cnnopinion,Left Leaning,CNN Opinion,259074538
+Cable News Network,username,ReliableSources,Left Leaning,Reliable Sources,547860279
+Cable News Network,username,CNNSitRoom,Left Leaning,The Situation Room,34310801
+Cable News Network,username,cnnsitroom,Left Leaning,The Situation Room,34310801
+The Recount,username,therecount,Center,The Recount,1087380412089987077
+Axios,username,axios,Left Leaning,Axios,800707492346925056
+American Broadcasting Company,username,ABC,Left Leaning,ABC News,28785486
+American Broadcasting Company,username,abc,Left Leaning,ABC News,28785486
+American Broadcasting Company,username,ABCPolitics,Left Leaning,ABC News Politics,16815644
+American Broadcasting Company,username,abcpolitics,Left Leaning,ABC News Politics,16815644
+American Broadcasting Company,username,TheView,Left Leaning,The View,21258337
+American Broadcasting Company,username,theview,Left Leaning,The View,21258337
+American Broadcasting Company,username,ThisWeekABC,Left Leaning,This Week,450941680
+American Broadcasting Company,username,thisweekabc,Left Leaning,This Week,450941680
+American Broadcasting Company,username,ABC13News,Left Leaning,ABC 13 News - WSET,15145138
+American Broadcasting Company,username,abc13news,Left Leaning,ABC 13 News - WSET,15145138
+American Broadcasting Company,username,ABC30,Left Leaning,ABC30 Fresno,16688247
+American Broadcasting Company,username,GMA,Left Leaning,Good Morning America,22650211
+American Broadcasting Company,username,gma,Left Leaning,Good Morning America,22650211
+National Broadcasting Company News,username,NBCNews,Left Leaning,NBC News,14173315
+National Broadcasting Company News,username,NBCPolitics,Left Leaning,NBC Politics,11856032
+National Broadcasting Company News,username,nbcpolitics,Left Leaning,NBC Politics,11856032
+National Broadcasting Company News,username,MeetThePress,Left Leaning,Meet the Press,11856892
+National Broadcasting Company News,username,meetthepress,Left Leaning,Meet the Press,11856892
+National Broadcasting Company News,username,NBCNightlyNews,Left Leaning,NBC Nightly News with Lester Holt,8839632
+National Broadcasting Company News,username,nbcnightlynews,Left Leaning,NBC Nightly News with Lester Holt,8839632
+National Broadcasting Company News,username,TODAYshow,Left Leaning,TODAY,7744592
+National Broadcasting Company News,username,todayshow,Left Leaning,TODAY,7744592
+National Broadcasting Company News,username,NBCPhiladelphia,Left Leaning,NBC10 Philadelphia,15755669
+National Broadcasting Company News,username,nbcphiladelphia,Left Leaning,NBC10 Philadelphia,15755669
+National Broadcasting Company News,username,Morning_Joe,Left Leaning,Morning Joe,254117355
+National Broadcasting Company News,username,morning_joe,Left Leaning,Morning Joe,254117355
+National Broadcasting Company News,username,nbcsnl,Left Leaning,Saturday Night Live - SNL,28221296
+National Broadcasting Company News,username,NBCNewsPR,Left Leaning,NBC News PR,102480261
+National Broadcasting Company News,username,NBCLatino,Left Leaning,NBC Latino,377949581
+National Broadcasting Company News,username,nbclatino,Left Leaning,NBC Latino,377949581
+National Broadcasting Company News,username,NBCOUT,Left Leaning,NBC Out,3331875599
+National Broadcasting Company News,username,FallonTonight,Left Leaning,The Tonight Show,19777398
+National Broadcasting Company News,username,fallontonight,Left Leaning,The Tonight Show,19777398
+National Broadcasting Company News,username,NBCAsianAmerica,Left Leaning,NBC Asian America,2535377622
+National Broadcasting Company News,username,nbcasianamerica,Left Leaning,NBC Asian America,2535377622
+The Daily Caller,username,DailyCaller,Right,Daily Caller,39308549
+The Daily Caller,username,dailycaller,Right,Daily Caller,39308549
+Breaking911,username,Breaking911,Extreme Bias Right,Breaking911,375721095
+The Associated Press,username,AP,Left Leaning,The Associated Press,51241574
+The Associated Press,username,ap,Left Leaning,The Associated Press,51241574
+The Associated Press_Politics,username,AP_Politics,Center,AP Politics,426802833
+The Associated Press_Politics,username,ap_politics,Center,AP Politics,426802833
+Columbia Broadcasting System News,username,CBSNews,Left Leaning,CBS News,15012486
+Columbia Broadcasting System News,username,cbsnews,Left Leaning,CBS News,15012486
+Columbia Broadcasting System News,username,60Minutes,Left Leaning,60 Minutes,18812572
+Columbia Broadcasting System News,username,60minutes,Left Leaning,60 Minutes,18812572
+Columbia Broadcasting System News,username,FaceTheNation,Left Leaning,Face The Nation,205392468
+Columbia Broadcasting System News,username,facethenation,Left Leaning,Face The Nation,205392468
+Columbia Broadcasting System News,username,CBSEveningNews,Left Leaning,CBS Evening News,42958829
+Columbia Broadcasting System News,username,cbseveningnews,Left Leaning,CBS Evening News,42958829
+Columbia Broadcasting System News,username,latelateshow,Left Leaning,The Late Late Show with James Corden,2835962353
+Columbia Broadcasting System News,username,CBSMornings,Left Leaning,CBS Mornings,17134268
+Columbia Broadcasting System News,username,colbertlateshow,Left Leaning,The Late Show,2835886194
+Columbia Broadcasting System News,username,60Mins,Left Leaning,60 Minutes Australia,38576013
+Columbia Broadcasting System News,username,60mins,Left Leaning,60 Minutes Australia,38576013
+Columbia Broadcasting System News,username,kcalnews,Left Leaning,KCAL News,24928809
+Columbia Broadcasting System News,username,WCCO,Left Leaning,WCCO | CBS News Minnesota,13000872
+Columbia Broadcasting System News,username,cbschicago,Left Leaning,CBS Chicago,15032862
+Columbia Broadcasting System News,username,CBSSunday,Left Leaning,CBS Sunday Morning 🌞,119829799
+Columbia Broadcasting System News,username,cbssunday,Left Leaning,CBS Sunday Morning 🌞,119829799
+Columbia Broadcasting System News,username,CBSMiami,Left Leaning,CBS News Miami,16334281
+Columbia Broadcasting System News,username,CBS,Left Leaning,CBS,97739866
+Columbia Broadcasting System News,username,cbslocal,Left Leaning,CBS Local,14836690
+Politico,username,politico,Left Leaning,POLITICO,9300262
+Microsoft and National Broadcasting Company,username,MSNBC,Left,MSNBC,2836421
+Microsoft and National Broadcasting Company,username,msnbc,Left,MSNBC,2836421
+Microsoft and National Broadcasting Company,username,DeadlineWH,Left,Deadline White House,860123351154556928
+Microsoft and National Broadcasting Company,username,deadlinewh,Left,Deadline White House,860123351154556928
+Microsoft and National Broadcasting Company,username,MaddowBlog,Left,Maddow Blog,91180720
+Microsoft and National Broadcasting Company,username,maddowblog,Left,Maddow Blog,91180720
+Microsoft and National Broadcasting Company,username,thereidout,Left,The ReidOut,205864193
+Microsoft and National Broadcasting Company,username,allinwithchris,Left,All In with Chris Hayes,1286312880
+Microsoft and National Broadcasting Company,username,TheLastWord,Left,The Last Word,182503471
+Microsoft and National Broadcasting Company,username,thelastword,Left,The Last Word,182503471
+Microsoft and National Broadcasting Company,username,11thHour,Left,11th Hour,771388593130483712
+Microsoft and National Broadcasting Company,username,11thhour,Left,11th Hour,771388593130483712
+Microsoft and National Broadcasting Company,username,MehdiHasanShow,Left,The Mehdi Hasan Show,1311714648622870529
+Microsoft and National Broadcasting Company,username,mehdihasanshow,Left,The Mehdi Hasan Show,1311714648622870529
+Microsoft and National Broadcasting Company,username,MSNBCPR,Left,MSNBC Public Relations,107120201
+Microsoft and National Broadcasting Company,username,msnbcpr,Left,MSNBC Public Relations,107120201
+The Washington Examiner,username,dcexaminer,Right,Washington Examiner,18956073
+The New York Post,username,nypost,Right Leaning,New York Post,17469289
+The New York Post,username,NYPostOpinion,Right Leaning,NY Post Opinion,298158534
+National Public Radio,username,NPR,Left Leaning,NPR,5392522
+National Public Radio,username,npr,Left Leaning,NPR,5392522
+National Public Radio,username,NPRpubliceditor,Left Leaning,NPR Public Editor,1116452819907817473
+National Public Radio,username,nprpubliceditor,Left Leaning,NPR Public Editor,1116452819907817473
+National Public Radio,username,npratc,Left Leaning,All Things Considered,21918310
+NPR Politics,username,nprpolitics,Left,NPR Politics,5741722
+Fox News Channel,username,WattersWorld,Right,Watters' World,1484261740389011458
+Fox News Channel,username,wattersworld,Right,Watters' World,1484261740389011458
+Fox News Channel,username,CBS_Herridge,Right,Catherine Herridge,1196441152486072320
+Fox News Channel,username,cbs_herridge,Right,Catherine Herridge,1196441152486072320
+Fox News Channel,username,FoxNews,Right,Fox News,1367531
+Fox News Channel,username,foxnews,Right,Fox News,1367531
+Fox News Channel,username,MLBONFOX,Right,FOX Sports: MLB,22819823
+Fox News Channel,username,mlbonfox,Right,FOX Sports: MLB,22819823
+Fox News Channel,username,MediaBuzzFNC,Right,#MediaBuzz,1707369648
+Fox News Channel,username,mediabuzzfnc,Right,#MediaBuzz,1707369648
+Fox News Channel,username,FoxNewsSunday,Right,Fox News Sunday,18805644
+Fox News Channel,username,foxnewssunday,Right,Fox News Sunday,18805644
+Fox News Channel,username,NextRevFNC,Right,The Next Revolution,851526166100029442
+Fox News Channel,username,nextrevfnc,Right,The Next Revolution,851526166100029442
+Fox News Channel,username,NASCARONFOX,Right,FOX: NASCAR,22199141
+Fox News Channel,username,nascaronfox,Right,FOX: NASCAR,22199141
+Fox News Channel,username,foxnewsradio,Right,FOX News Radio,11611052
+Fox News Channel,username,FoxBusiness,Right,FOX Business,56413858
+Fox News Channel,username,foxbusiness,Right,FOX Business,56413858
+NowThis News,username,nowthisimpact,Extreme Bias Left,NowThis Impact,701725963
+"Judicial Watch, Inc.",username,JudicialWatch,Extreme Bias Right,Judicial Watch ⚖️,18247062
+"Judicial Watch, Inc.",username,judicialwatch,Extreme Bias Right,Judicial Watch ⚖️,18247062
+Consumer News and Business Channel,username,CNBC,Right Leaning,CNBC,20402945
+Consumer News and Business Channel,username,cnbc,Right Leaning,CNBC,20402945
+Consumer News and Business Channel,username,CNBCnow,Right Leaning,CNBC Now,26574283
+Consumer News and Business Channel,username,CNBCPolitics,Right Leaning,CNBC Politics,381724050
+Consumer News and Business Channel,username,cnbcpolitics,Right Leaning,CNBC Politics,381724050
+Consumer News and Business Channel,username,JoeSquawk,Right Leaning,Joe Kernen,553036368
+Consumer News and Business Channel,username,cnbcnow,Right Leaning,CNBC Now,26574283
+Thomson Reuters,username,Reuters,Center,Reuters,1652541
+Thomson Reuters,username,reuters,Center,Reuters,1652541
+Thomson Reuters,username,ReutersVzla,Center,Reuters Venezuela,633913281
+Thomson Reuters,username,reutersvzla,Center,Reuters Venezuela,633913281
+Cable-Satellite Public Affairs Network,username,cspan,Center,CSPAN,15675138
+Disclose.tv,username,disclosetv,Right,Disclose.tv,15392486
+Breitbart News Network,username,BreitbartNews,Extreme Bias Right,Breitbart News,457984599
+Breitbart News Network,username,breitbartnews,Extreme Bias Right,Breitbart News,457984599
+"Newsmax Media, Inc",username,NEWSMAX,Extreme Bias Right,NEWSMAX,20545835
+"Newsmax Media, Inc",username,newsmax,Extreme Bias Right,NEWSMAX,20545835
+The Daily Beast,username,thedailybeast,Left,The Daily Beast,16012783
+The Gateway Pundit,username,gatewaypundit,Extreme Bias Right,The Gateway Pundit,19211550
+Bloomberg L.P.,username,business,Left Leaning,Bloomberg,34713362
+Bloomberg L.P.,username,bbgoriginals,Left Leaning,Bloomberg Originals,252751061
+Bloomberg L.P.,username,bpolitics,Left Leaning,Bloomberg Politics,564111558
+Bloomberg L.P.,username,Blaw,Left Leaning,Bloomberg Law,34613951
+Bloomberg L.P.,username,blaw,Left Leaning,Bloomberg Law,34613951
+Bloomberg L.P.,username,Bloomberg,Left Leaning,Bloomberg,104237736
+Rasmussen Reports,username,Rasmussen_Poll,Right Leaning,Rasmussen Reports,19553409
+Rasmussen Reports,username,rasmussen_poll,Right Leaning,Rasmussen Reports,19553409
+TV News HQ,username,TVNewsHQ,Left Leaning,TV News HQ,711356961107918849
+TV News HQ,username,tvnewshq,Left Leaning,TV News HQ,711356961107918849
+The Washington Times,username,WashTimes,Right Leaning,The Washington Times,14662354
+The Washington Times,username,washtimes,Right Leaning,The Washington Times,14662354
+Newsweek,username,Newsweek,Right Leaning,Newsweek,2884771
+Newsweek,username,newsweek,Right Leaning,Newsweek,2884771
+The Daily Wire,username,realDailyWire,Right,Daily Wire,4081106480
+The Daily Wire,username,realdailywire,Right,Daily Wire,4081106480
+TIME Magazine,username,TIME,Left Leaning,TIME,14293310
+TIME Magazine,username,time,Left Leaning,TIME,14293310
+Mediaite,username,Mediaite,Left,Mediaite,29465136
+Mediaite,username,mediaite,Left,Mediaite,29465136
+Raw Story,username,RawStory,Left,Raw Story,16041234
+Raw Story,username,rawstory,Left,Raw Story,16041234
+Vox Media,username,voxdotcom,Left,Vox,2347049341
+Entertainment and Sports Programming Network,username,espnmma,Left Leaning,ESPN MMA,1062738433716686848
+Entertainment and Sports Programming Network,username,espn,Left Leaning,ESPN,2557521
+Entertainment and Sports Programming Network,username,espnW,Left Leaning,espnW,57333521
+Entertainment and Sports Programming Network,username,SportsCenter,Left Leaning,SportsCenter,26257166
+Entertainment and Sports Programming Network,username,sportscenter,Left Leaning,SportsCenter,26257166
+The Wall Street Journal,username,WSJ,Right Leaning,The Wall Street Journal,3108351
+The Wall Street Journal,username,WSJopinion,Right Leaning,Wall Street Journal Opinion,7228682
+The Wall Street Journal,username,wsj,Right Leaning,The Wall Street Journal,3108351
+The Wall Street Journal,username,wsjopinion,Right Leaning,Wall Street Journal Opinion,7228682
+Los Angeles Times,username,latimes,Left Leaning,Los Angeles Times,16664681
+Los Angeles Times,username,latimesopinion,Left Leaning,L.A. Times Opinion,17825891
+One America News Network,username,OANN,Right,One America News,1209936918
+One America News Network,username,oann,Right,One America News,1209936918
+TheBlaze,username,theblaze,Right,TheBlaze,10774652
+The Daily Show,username,TheDailyShow,Left Leaning,The Daily Show,158414847
+The Daily Show,username,thedailyshow,Left Leaning,The Daily Show,158414847
+The Epoch Times,username,EpochTimes,Right,The Epoch Times,29097819
+The Epoch Times,username,epochtimes,Right,The Epoch Times,29097819
+USA TODAY,username,USATODAY,Left Leaning,USA TODAY,15754281
+USA TODAY,username,usatodayDC,Left Leaning,USA TODAY Politics,7998482
+USA TODAY,username,usatoday,Left Leaning,USA TODAY,15754281
+USA TODAY,username,usatodaydc,Left Leaning,USA TODAY Politics,7998482
+USA TODAY,username,USAenEspanol,Left Leaning,USA en Español,252176459
+Yahoo News,username,YahooNews,Left Leaning,Yahoo News,7309052
+Yahoo News,username,yahoonews,Left Leaning,Yahoo News,7309052
+Yahoo News,username,YahooSportsCFB,Left Leaning,Yahoo Sports College Football,500427849
+Yahoo News,username,Yahoo,Left Leaning,Yahoo,19380829
+Thirty Mile Zone,username,TMZ,Right Leaning,TMZ,16331010
+Thirty Mile Zone,username,tmz,Right Leaning,TMZ,16331010
+Daily Mail,username,DailyMail,Extreme Bias Right,Daily Mail US,380285402
+Daily Mail,username,DailyMailUK,Extreme Bias Right,Mail+,111556423
+Daily Mail,username,dailymail,Extreme Bias Right,Daily Mail US,380285402
+Daily Mail,username,dailymailuk,Extreme Bias Right,Mail+,111556423
+ABC News 4,username,ABCNews4,Right Leaning,ABC News 4,15109904
+The Huffington Post,username,HuffPost,Left,HuffPost,14511951
+The Huffington Post,username,ElHuffPost,Left,El HuffPost,364528766
+The Huffington Post,username,HuffPostPol,Left,HuffPost Politics,15458694
+The Huffington Post,username,huffpost,Left,HuffPost,14511951
+The Huffington Post,username,huffpostpol,Left,HuffPost Politics,15458694
+The Huffington Post,username,blackvoices,Left,HuffPost BlackVoices,13557972
+RightSide Broadcasting Network,username,RSBNetwork,Right,RSBN 🇺🇸,4041824789
+RightSide Broadcasting Network,username,rsbnetwork,Right,RSBN 🇺🇸,4041824789
+The Daily Telegraph,username,Telegraph,Right,The Telegraph,16343974
+The Daily Telegraph,username,telegraph,Right,The Telegraph,16343974
+Al Jazeera Media Network,username,ajplus,Left Leaning,AJ+,110396781
+Al Jazeera Media Network,username,AJEnglish,Left Leaning,Al Jazeera English,4970411
+Al Jazeera Media Network,username,ajenglish,Left Leaning,Al Jazeera English,4970411
+SCOTUSblog,username,SCOTUSblog,Center,SCOTUSblog,16228479
+SCOTUSblog,username,scotusblog,Center,SCOTUSblog,16228479
+Canadian Broadcasting Corporation News,username,PnPCBC,Left Leaning,Power & Politics,373683618
+Canadian Broadcasting Corporation News,username,pnpcbc,Left Leaning,Power & Politics,373683618
+Canadian Broadcasting Corporation News,username,CBCNews,Left Leaning,CBC News,6433472
+Canadian Broadcasting Corporation News,username,cbcnews,Left Leaning,CBC News,6433472
+Forbes,username,Forbes,Right Leaning,Forbes,91478624
+Forbes,username,forbes,Right Leaning,Forbes,91478624
+Vanity Fair,username,VanityFair,Left,VANITY FAIR,15279429
+Vanity Fair,username,vanityfair,Left,VANITY FAIR,15279429
+The Boston Globe,username,BostonGlobe,Left Leaning,The Boston Globe,95431448
+The Boston Globe,username,bostonglobe,Left Leaning,The Boston Globe,95431448
+Reagan Battalion,username,ReaganBattalion,Right Leaning,Reagan Battalion,4429709805
+Reagan Battalion,username,reaganbattalion,Right Leaning,Reagan Battalion,4429709805
+Channel 4 News,username,Channel4News,Left Leaning,Channel 4 News,14569869
+Channel 4 News,username,channel4news,Left Leaning,Channel 4 News,14569869
+Baller Alert,username,balleralert,Center,Baller Alert 🚨,14204133
+Business Insider,username,BusinessInsider,Left Leaning,Business Insider,20562637
+Business Insider,username,businessinsider,Left Leaning,Business Insider,20562637
+Palmer Report,username,PalmerReport,Left,Palmer Report,15115280
+Palmer Report,username,palmerreport,Left,Palmer Report,15115280
+Public Broadcasting Service,username,NewsHour,Left Leaning,PBS NewsHour,14437914
+Public Broadcasting Service,username,newshour,Left Leaning,PBS NewsHour,14437914
+Public Broadcasting Service,username,PBS,Left Leaning,PBS,12133382
+Public Broadcasting Service,username,pbs,Left Leaning,PBS,12133382
+Mother Jones,username,MotherJones,Left Leaning,Mother Jones,18510860
+Mother Jones,username,motherjones,Left Leaning,Mother Jones,18510860
+Tampa Bay Times,username,PolitiFact,Left Leaning,PolitiFact,8953122
+Tampa Bay Times,username,politifact,Left Leaning,PolitiFact,8953122
+The Washington Free Beacon,username,FreeBeacon,Extreme Bias Right,Washington Free Beacon,455764741
+The Washington Free Beacon,username,freebeacon,Extreme Bias Right,Washington Free Beacon,455764741
+PoliticusUSA,username,politicususa,Left,PoliticusUSA,14792049
+KDKA-TV,username,KDKA,Left Leaning,KDKA,14085099
+KDKA-TV,username,kdka,Left Leaning,KDKA,14085099
+Scientific American,username,sciam,Left Leaning,Scientific American,14647570
+The First TV,username,TheFirstonTV,Right,The First,1182332284403376128
+The First TV,username,thefirstontv,Right,The First,1182332284403376128
+The New York Daily News,username,NYDailyNews,Left Leaning,New York Daily News,9763482
+The New York Daily News,username,nydailynews,Left Leaning,New York Daily News,9763482
+Agence France-Presse (AFP),username,AFP,Center,AFP News Agency,380648579
+Agence France-Presse (AFP),username,AFPespanol,Center,Agence France-Presse,851108442
+Agence France-Presse (AFP),username,afp,Center,AFP News Agency,380648579
+Agence France-Presse (AFP),username,afpespanol,Center,Agence France-Presse,851108442
+The Independent,username,Independent,Left Leaning,The Independent,16973333
+The Independent,username,independent,Left Leaning,The Independent,16973333
+The Atlantic,username,TheAtlantic,Left Leaning,The Atlantic,35773039
+The Atlantic,username,theatlantic,Left Leaning,The Atlantic,35773039
+"British Broadcasting Corporation, BBC",username,BBCNews,Left Leaning,BBC News (UK),612473
+"British Broadcasting Corporation, BBC",username,BBCNewsnight,Left Leaning,BBC Newsnight,20543416
+"British Broadcasting Corporation, BBC",username,bbcnewsnight,Left Leaning,BBC Newsnight,20543416
+"British Broadcasting Corporation, BBC",username,bbcnews,Left Leaning,BBC News (UK),612473
+"British Broadcasting Corporation, BBC",username,BBCWorld,Left Leaning,BBC News (World),742143
+"British Broadcasting Corporation, BBC",username,bbcworld,Left Leaning,BBC News (World),742143
+"British Broadcasting Corporation, BBC",username,BBCBreaking,Left Leaning,BBC Breaking News,5402612
+"British Broadcasting Corporation, BBC",username,bbcbreaking,Left Leaning,BBC Breaking News,5402612
+"British Broadcasting Corporation, BBC",username,BBC,Left Leaning,BBC,19701628
+The Hollywood Reporter,username,THR,Left Leaning,The Hollywood Reporter,17446621
+The Hollywood Reporter,username,thr,Left Leaning,The Hollywood Reporter,17446621
+BuzzFeed News,username,BuzzFeedNews,Left Leaning,BuzzFeed News,1020058453
+BuzzFeed News,username,buzzfeednews,Left Leaning,BuzzFeed News,1020058453
+The Guardian,username,guardian,Left Leaning,The Guardian,87818409
+The Guardian,username,GuardianUS,Left Leaning,Guardian US,16042794
+The Guardian,username,guardianus,Left Leaning,Guardian US,16042794
+The Texas Tribune,username,TexasTribune,Left Leaning,Texas Tribune,44513878
+The Texas Tribune,username,texastribune,Left Leaning,Texas Tribune,44513878
+Asian News International,username,ANI,Right Leaning,ANI,355989081
+Asian News International,username,ani,Right Leaning,ANI,355989081
+WSPA-TV,username,WSPA7,Right Leaning,WSPA 7NEWS,16138559
+WRIC-TV,username,8NEWS,Center,8News WRIC Richmond,23948496
+WRIC-TV,username,8news,Center,8News WRIC Richmond,23948496
+WRIC-TV,username,12OnYourSide,Center,12 On Your Side WWBT Richmond,19151000
+Detroit Free Press,username,freep,Left Leaning,Detroit Free Press,8795772
+Townhall,username,townhallcom,Right,Townhall.com,28614262
+Sky News UK,username,SkyNews,Left Leaning,Sky News,7587032
+Sky News UK,username,skynews,Left Leaning,Sky News,7587032
+Sky News Australia,username,SkyNewsAust,Right,Sky News Australia,16834659
+Sky News Australia,username,skynewsaust,Right,Sky News Australia,16834659
+Sky TG24 Italia,username,SkyTG24,Left Leaning,Sky tg24,5893702
+France Info,username,franceinfo,Left Leaning,franceinfo,38395124
+KTVN 2 News,username,KTVN,Center,2 News Nevada,16568530
+The Atlanta Journal-Constitution,username,ajc,Left Leaning,Atlanta Journal-Constitution,4170491
+Independent Television News,username,itvnews,Right Leaning,ITV News,21866939
+OutKick,username,Outkick,Right Leaning,OutKick,334920737
+The Jerusalem Post,username,Jerusalem_Post,Right Leaning,The Jerusalem Post,19489239
+The Jerusalem Post,username,jerusalem_post,Right Leaning,The Jerusalem Post,19489239
+America Magazine,username,americamag,Left Leaning,America Magazine,17372204
+"The Young, Black, and Fabulous",username,TheYBF,Center,YBF CHIC,22063870
+"The Young, Black, and Fabulous",username,theybf,Center,YBF CHIC,22063870
+Advertising Age,username,adage,Center,Ad Age,12480582
+Fxhedgers,username,Fxhedgers,Center,FXHedge,31064165
+Fxhedgers,username,fxhedgers,Center,FXHedge,31064165
+WBNS-10TV,username,10TV,Center,10TV,15304100
+Iowa Starting Line,username,IAStartingLine,Left,Iowa Starting Line,2940964728
+Iowa Starting Line,username,iastartingline,Left,Iowa Starting Line,2940964728
+New Tang Dynasty Television,username,NTDNews,Right,NTD News,1060573081935249409
+Media Research Center TV,username,mrctv,Right Leaning,MRCTV,13737002
+G1 Notícias,username,g1,Left Leaning,g1,8802752
+Época,username,RevistaEpoca,Left Leaning,Época,21207962
+Valor Econômico,username,valoreconomico,Right Leaning,Valor Econômico,32529120
+O Globo,username,JornalOGlobo,Right Leaning,Jornal O Globo,54341363
+Central Brasileira de Notícias,username,CBNoficial,Center,Rádio CBN,785833176
+National Review Online,username,NRO,Right,National Review,19417492
+National Review Online,username,nro,Right,National Review,19417492
+Ventura County Star,username,VenturaReport,Left Leaning,Jorge Ventura Media,976569885009485824
+Ventura County Star,username,venturareport,Left Leaning,Jorge Ventura Media,976569885009485824
+Democracy Now,username,democracynow,Left,Democracy Now!,16935292
+Business Frequency Modulation TV,username,BFMTV,Center,BFMTV,133663801
+Business Frequency Modulation TV,username,bfmtv,Center,BFMTV,133663801
+Agencia EFE Noticias,username,EFEnoticias,Center,EFE Noticias,105082141
+Agencia EFE Noticias,username,efenoticias,Center,EFE Noticias,105082141
+The Tennessee Holler,username,TheTNHoller,Left,The Tennessee Holler,1088862056705593344
+The Tennessee Holler,username,thetnholler,Left,The Tennessee Holler,1088862056705593344
+Zero Hedge,username,zerohedge,Extreme Bias Right,zerohedge,18856867
+RedState,username,RedState,Right,RedState,3135241
+RedState,username,redstate,Right,RedState,3135241
+Upward News,username,UpwardNewsHQ,Right Leaning,Upward News,1263205289618214913
+Variety,username,Variety,Left Leaning,Variety,17525171
+Variety,username,variety,Left Leaning,Variety,17525171
+The Economist,username,TheEconomist,Center,The Economist,5988062
+The Economist,username,theeconomist,Center,The Economist,5988062
+Status Coup,username,StatusCoup,Left,Status Coup News,968889962354696192
+Status Coup,username,statuscoup,Left,Status Coup News,968889962354696192
+Rolling Stone,username,RollingStone,Left,Rolling Stone,14780915
+Rolling Stone,username,rollingstone,Left,Rolling Stone,14780915
+El País,username,el_pais,Left Leaning,EL PAÍS,7996082
+El País,username,elpais_america,Left Leaning,EL PAÍS América,1244357988
+El País,username,elpaismexico,Left Leaning,EL PAÍS México,1263999129874690048
+Texas Signal,username,TexasSignal,Left,Texas Signal,1110908848502726656
+NJ.com,username,njdotcom,Left Leaning,njdotcom,14179819
+RT (Russia Today),username,RT_com,Right Leaning,RT,64643056
+RT (Russia Today),username,rt_com,Right Leaning,RT,64643056
+The American Prospect,username,TheProspect,Left,The American Prospect,15949696
+VICE News,username,VICENews,Left Leaning,VICE News,1630896181
+VICE News,username,vicenews,Left Leaning,VICE News,1630896181
+JOE.co.uk,username,PoliticsJOE_UK,Left Leaning,PoliticsJOE,840502412842541056
+JOE.co.uk,username,politicsjoe_uk,Left Leaning,PoliticsJOE,840502412842541056
+The Federalist,username,FDRLST,Right,The Federalist,1408003598
+The Federalist,username,fdrlst,Right,The Federalist,1408003598
+"Pro Publica, Inc.",username,propublica,Left Leaning,ProPublica,14606079
+"Pro Publica, Inc.",username,ProPublica,Left Leaning,ProPublica,14606079
+Global Times,username,globaltimesnews,Left,Global Times,49616273
+Kyiv Post,username,KyivPost,Left Leaning,KyivPost,14106476
+Kyiv Post,username,kyivpost,Left Leaning,KyivPost,14106476
+WAVY News,username,WAVY_News,Center,WAVY TV 10,16259594
+Stars and Stripes,username,starsandstripes,Center,Stars and Stripes,9130702
+The Insider Paper,username,TheInsiderPaper,Right Leaning,Insider Paper,1247223374717296647
+The Insider Paper,username,theinsiderpaper,Right Leaning,Insider Paper,1247223374717296647
+San Francisco Chronicle,username,sfchronicle,Left Leaning,San Francisco Chronicle,121597316
+Financial Times,username,FinancialTimes,Center,Financial Times,4898091
+Financial Times,username,financialtimes,Center,Financial Times,4898091
+Financial Times,username,FT,Center,Financial Times,18949452
+Financial Times,username,ft,Center,Financial Times,18949452
+FOX 13 News,username,FOX13News,Center,FOX 13 Tampa Bay,15750898
+FOX 13 News,username,fox13news,Center,FOX 13 Tampa Bay,15750898
+Slate,username,Slate,Left,Slate,15164565
+Slate,username,slate,Left,Slate,15164565
+The Babylon Bee,username,TheBabylonBee,Left Leaning,The Babylon Bee,4914384040
+The Babylon Bee,username,thebabylonbee,Left Leaning,The Babylon Bee,4914384040
+Miami Herald,username,MiamiHerald,Left Leaning,Miami Herald,14085040
+Miami Herald,username,miamiherald,Left Leaning,Miami Herald,14085040
+Talking Points Memo (TPM),username,TPM,Left,Talking Points Memo,14717197
+Talking Points Memo (TPM),username,tpm,Left,Talking Points Memo,14717197
+ABC7NY,username,ABC7NY,Center,Eyewitness News,16715398
+ABC7NY,username,abc7ny,Center,Eyewitness News,16715398
+Chicago Sun-Times,username,Suntimes,Left Leaning,Chicago Sun-Times,12811952
+Chicago Sun-Times,username,suntimes,Left Leaning,Chicago Sun-Times,12811952
+BNO News,username,BNOFeed,Center,BNO News,2985479932
+FiveThirtyEight,username,FiveThirtyEight,Left Leaning,FiveThirtyEight,2303751216
+FiveThirtyEight,username,fivethirtyeight,Left Leaning,FiveThirtyEight,2303751216
+6ABC,username,6abc,Left Leaning,Action News on 6abc,18391051
+The Verge,username,verge,Left Leaning,The Verge,275686563
+Austin American-Statesman,username,statesman,Left Leaning,Austin Statesman,5692542
+Crain's Chicago Business,username,CrainsChicago,Right Leaning,Crain's Chicago Business,18148466
+WEAR-TV,username,weartv,Right Leaning,WEAR ABC 3,33502398
+Law & Crime,username,lawcrimenews,Left Leaning,Law & Crime,4068337756
+Fort Worth Star-Telegram,username,startelegram,Right Leaning,Fort Worth Star-Telegram,15615783
+The Bias News,username,thebias_news,Right Leaning,The Bias,1054124381360832512
+Breaking News,username,BreakingNews,Extreme Bias Right,Breaking News,6017542
+Breaking News,username,breakingnews,Extreme Bias Right,Breaking News,6017542
+XXL Magazine,username,XXL,Center,XXL Magazine,14629315
+XXL Magazine,username,xxl,Center,XXL Magazine,14629315
+LifeNews.com,username,LifeNewsHQ,Extreme Bias Right,LifeNews.com,50434933
+LifeNews.com,username,lifenewshq,Extreme Bias Right,LifeNews.com,50434933
+KTLA,username,KTLA,Center,KTLA,10252962
+KTLA,username,ktla,Center,KTLA,10252962
+Vice Media,username,motherboard,Left Leaning,Motherboard,56510427
+Vice Media,username,vice,Left Leaning,VICE,23818581
+Yonhap News Agency,username,YonhapNews,Right Leaning,Yonhap News Agency,31577674
+Yonhap News Agency,username,yonhapnews,Right Leaning,Yonhap News Agency,31577674
+Golf Central,username,GolfCentral,Center,Golf Central,16788222
+Golf Central,username,golfcentral,Center,Golf Central,16788222
+El Mundo,username,elmundoes,Right Leaning,EL MUNDO,14436030
+The Daily News (Longview),username,TDN_NOTICIAS,Center,TDN®,1195348350620622850
+The Daily News (Longview),username,tdn_noticias,Center,TDN®,1195348350620622850
+MarketWatch,username,MarketWatch,Right Leaning,MarketWatch,624413
+MarketWatch,username,marketwatch,Right Leaning,MarketWatch,624413
+Special Broadcasting Service,username,SBSNews,Left Leaning,SBS News,8197942
+Special Broadcasting Service,username,sbsnews,Left Leaning,SBS News,8197942
+San Francisco Gate,username,SFGate,Left Leaning,SFGATE,36511031
+San Francisco Gate,username,sfgate,Left Leaning,SFGATE,36511031
+Mid Michigan NOW,username,midmichigannow,Center,Mid-Michigan NOW,21139887
+New Delhi Television Limited,username,ndtv,Left Leaning,NDTV,37034483
+New Delhi Television Limited,username,NDTV,Left Leaning,NDTV,37034483
+Al Arabiya,username,AlArabiya_Eng,Right Leaning,Al Arabiya English,22240612
+The Intercept,username,theintercept,Left,The Intercept,2329066872
+The Root,username,TheRoot,Left,The Root,23995748
+The Root,username,theroot,Left,The Root,23995748
+Spectrum News NY1,username,NY1,Center,Spectrum News NY1,43425975
+Spectrum News NY1,username,ny1,Center,Spectrum News NY1,43425975
+Arizona Capitol Times,username,azcpolitics,Left Leaning,azcentral politics,456845561
+Jezebel,username,Jezebel,Extreme Bias Left,Jezebel,8192222
+Latinus,username,latinus_us,Left,Latinus,1209183944807272448
+WIRED,username,WIRED,Left Leaning,WIRED,1344951
+WIRED,username,wired,Left Leaning,WIRED,1344951
+WSB-TV Channel 2 Atlanta,username,wsbtv,Center,WSB-TV,21094888
+HotNewHipHop (HNHH),username,HotNewHipHop,Center,HotNewHipHop,24036264
+Mediavenir,username,Mediavenir,Center,Mediavenir,1214315619031478272
+Mediavenir,username,mediavenir,Center,Mediavenir,1214315619031478272
+Foreign Policy,username,ForeignPolicy,Center,Foreign Policy,26792275
+Foreign Policy,username,foreignpolicy,Center,Foreign Policy,26792275
+Not the Bee,username,Not_the_Bee,Right,Not the Bee,1299007622968901637
+Not the Bee,username,not_the_bee,Right,Not the Bee,1299007622968901637
+The Chicago Tribune,username,chicagotribune,Right Leaning,Chicago Tribune,7313362
+Byline Times,username,BylineTimes,Left Leaning,Byline Times,1035418272764715008
+Byline Times,username,bylinetimes,Left Leaning,Byline Times,1035418272764715008
+WAGA-TV Fox 5 Atlanta,username,FOX5Atlanta,Center,FOX 5 Atlanta,17836882
+KTVU,username,KTVU,Center,KTVU,15652540
+KTVU,username,ktvu,Center,KTVU,15652540
+La Gaceta de la Iberosfera,username,gaceta_es,Right Leaning,LA GACETA,17214331
+El Tiempo,username,ELTIEMPO,Center,EL TIEMPO,9633802
+El Tiempo,username,eltiempo,Center,EL TIEMPO,9633802
+ABC,username,abc_es,Right Leaning,ABC.es,19923515
+Jacobin,username,jacobin,Left,Jacobin,170254080
+PopWrapped,username,PopWrapped,Center,PopWrapped,100077645
+PopWrapped,username,popwrapped,Center,PopWrapped,100077645
+The Bulwark,username,BulwarkOnline,Right Leaning,The Bulwark,1049475664804532225
+The Bulwark,username,bulwarkonline,Right Leaning,The Bulwark,1049475664804532225
+PanAm Post,username,PanAmPost_es,Right,PanAm Post Español,2228816504
+PanAm Post,username,panampost_es,Right,PanAm Post Español,2228816504
+St. Louis Post-Dispatch,username,stltoday,Left Leaning,St. Louis Post-Dispatch,6039302
+Canadian Television,username,CTVNews,Center,CTV News,203123011
+Canadian Television,username,ctvnews,Center,CTV News,203123011
+National Association for the Advancement of Colored People,username,NAACP,Left,NAACP,44988185
+National Association for the Advancement of Colored People,username,naacp,Left,NAACP,44988185
+Milwaukee Journal Sentinel,username,journalsentinel,Left Leaning,Journal Sentinel,16544024
+The Des Moines Register,username,DMRegister,Center,Des Moines Register,13657922
+The Des Moines Register,username,dmregister,Center,Des Moines Register,13657922
+The Nation,username,thenation,Left,The Nation,1947301
+Deutsche Welle,username,dwnews,Left Leaning,DW News,6134882
+The Appeal,username,theappeal,Left Leaning,The Appeal,4842325334
+The Frontier,username,FrontierMM,Left Leaning,Frontier Myanmar,3248500543
+The Frontier,username,frontiermm,Left Leaning,Frontier Myanmar,3248500543
+CNEWS,username,CNEWS,Right Leaning,CNEWS,18396319
+CNEWS,username,cnews,Right Leaning,CNEWS,18396319
+The Seattle Times,username,seattletimes,Left Leaning,The Seattle Times,14352556
+Deadline Hollywood,username,DEADLINE,Left Leaning,Deadline Hollywood,586032653
+Deadline Hollywood,username,deadline,Left Leaning,Deadline Hollywood,586032653
+Hindustan Times,username,htTweets,Left Leaning,Hindustan Times,36327407
+Le Monde,username,lemondefr,Left Leaning,Le Monde,24744541
+Ami Magazine,username,Ami_Magazine,Right,Ami Magazine,562467580
+Europe Elects,username,EuropeElects,Center,Europe Elects,319677725
+Europe Elects,username,europeelects,Center,Europe Elects,319677725
+The Detroit News,username,detroitnews,Right Leaning,The Detroit News,16543775
+Wake Up To Politics,username,WakeUp2Politics,Center,Gabe Fleisher,928744998
+Wake Up To Politics,username,wakeup2politics,Center,Gabe Fleisher,928744998
+Real America's Voice,username,RealAmVoice,Right,Real America's Voice (RAV),935942321756966912
+Real America's Voice,username,realamvoice,Right,Real America's Voice (RAV),935942321756966912
+The Real Daytime,username,TheRealDaytime,Left Leaning,The Real,1482663290
+The Real Daytime,username,therealdaytime,Left Leaning,The Real,1482663290
+Sputnik News,username,SputnikInt,Right,Sputnik,34262462
+Sputnik News,username,sputnikint,Right,Sputnik,34262462
+Microsoft Network,username,MSN,Left Leaning,MSN,15856435
+Microsoft Network,username,msn,Left Leaning,MSN,15856435
+CounterPunch,username,JSCCounterPunch,Left,Jeffrey St. Clair,636485312
+Valeurs Actuelles,username,Valeurs,Extreme Bias Right,Valeurs actuelles ن,112754792
+El Paso Matters,username,BobMooreNews,Center,Bob Moore,19160709
+El Paso Matters,username,bobmoorenews,Center,Bob Moore,19160709
+The Young Turks (TYT),username,TheYoungTurks,Left,The Young Turks,14957147
+The Young Turks (TYT),username,theyoungturks,Left,The Young Turks,14957147
+Reason,username,reason,Right Leaning,reason,16467567
+Christianity Today,username,Ctmagazine,Right Leaning,Christianity Today,15027207
+Christianity Today,username,ctmagazine,Right Leaning,Christianity Today,15027207
+NewsBusters,username,newsbusters,Extreme Bias Right,MRC NewsBusters,45190383
+Salon.com,username,Salon,Left,Salon,16955991
+Salon.com,username,salon,Left,Salon,16955991
+Roll Call,username,rollcall,Center,Roll Call,15922214
+New York Magazine,username,NYMag,Left,New York Magazine,45564482
+New York Magazine,username,nymag,Left,New York Magazine,45564482
+Star Tribune,username,StarTribune,Left Leaning,Star Tribune,17348525
+Star Tribune,username,startribune,Left Leaning,Star Tribune,17348525
+Common Dreams,username,commondreams,Left,Common Dreams,14296273
+Just the News,username,JustTheNews,Right,Just the News,1216793092134723586
+Just the News,username,justthenews,Right,Just the News,1216793092134723586
+ActBlue(民主党筹款平台),username,actblue,Left,ActBlue,8223542
+People Magazine,username,people,Left,People,25589776
+Essence Magazine,username,Essence,Left Leaning,ESSENCE,27677483
+AZCentral.com,username,azcentral,Left Leaning,azcentral,13115682
+Dallas News,username,dallasnews,Right Leaning,Dallas Morning News,15679641
+National File,username,NationalFile,Right,National File,1151261114384171008
+National File,username,nationalfile,Right,National File,1151261114384171008
+WBUR-FM,username,WBUR,Left Leaning,WBUR,2996801
+The State,username,thestate,Left Leaning,The State Newspaper,12831882
+Daily Kos,username,dailykos,Left,Daily Kos,20818801
+8 News Now (KLAS-TV),username,8NewsNow,Center,8 News Now,15593696
+8 News Now (KLAS-TV),username,8newsnow,Center,8 News Now,15593696
+The Cut,username,TheCut,Left,The Cut,19923638
+Bossip,username,Bossip,Extreme Bias Right,Bossip,16269666
+Mashable,username,mashable,Left,Mashable,972651
+Business Political Action Committee Review,username,BIZPACReview,Right,BPR,237888723
+FactCheck.org,username,FactCheck,Center,C4 News FactCheck,15143541
+U.S. News & World Report,username,usnews,Left Leaning,U.S. News & World Report,6577642
+Occupy Democrats,username,OccupyDemocrats,Extreme Bias Left,Occupy Democrats,878284831
+medium,username,medium,Left Leaning,Medium,571202103
+medium,username,Medium,Left Leaning,Medium,571202103
+The RightScoop,username,TheRightScoop,Extreme Bias Right,The Right Scoop,212708176
+Deseret News,username,Deseret,Right Leaning,Deseret News,15050354
+AlterNet,username,AlterNet,Left,AlterNet,18851248
+AlterNet,username,alternet,Left,AlterNet,18851248
+Computer Network,username,CNET,Center,CNET,30261067
+Público,username,Publico,Left Leaning,Público,2561091
+Powered By People(共和党筹款平台),username,poweredxpeople,Right,Powered By People,1225865504050511873
+The New Yorker,username,newyorker,Left,The New Yorker,14677919
+Crain's Detroit Business,username,crainsdetroit,Center,Crain's Detroit Business,29209404
+BNN Bloomberg,username,BNNBloomberg,Left Leaning,BNN Bloomberg,109350515
+BNN Bloomberg,username,bnnbloomberg,Left Leaning,BNN Bloomberg,109350515
+WinRed(共和党筹款平台),username,WINRED,Right,WinRed,1121327121723527168
+WinRed(共和党筹款平台),username,winred,Right,WinRed,1121327121723527168
+Democratic National Convention,username,DemConvention,Left,2024 Democratic National Convention,8370082
+Democratic National Convention,username,demconvention,Left,2024 Democratic National Convention,8370082
+"National Center for Transgender Equality, NCTE",username,TransEquality,Left Leaning,National Center for Transgender Equality,37005435
+"National Center for Transgender Equality, NCTE",username,transequality,Left Leaning,National Center for Transgender Equality,37005435
+Amazon,username,amazon,Center,Amazon,20793816
+Judicial Watch,username,Jwatch,Extreme Bias Right,NEJM Journal Watch,25952049
+The Kansas City Star,username,KansasCity,Left Leaning,Kansas City,41657673
+Total News World,username,TotalWorld1,Right,トータルニュースワールド,1302398291364077568
+Total News World,username,totalworld1,Right,トータルニュースワールド,1302398291364077568
+Citizens for Responsibility and Ethics in Washington,username,CREWcrew,Left Leaning,Citizens for Ethics,22187085
+Citizens for Responsibility and Ethics in Washington,username,crewcrew,Left Leaning,Citizens for Ethics,22187085
+The National Pulse,username,TheNatPulse,Extreme Bias Right,The National Pulse,3066129832
+The National Pulse,username,thenatpulse,Extreme Bias Right,The National Pulse,3066129832
+The DC Patriot,username,MyDCPatriot,Extreme Bias Right,DC Patriot,898759943393816576
+The Post Millennial,username,TPostMillennial,Right,The Post Millennial,896731633704947712
+The Post Millennial,username,tpostmillennial,Right,The Post Millennial,896731633704947712
+Apple News,username,AppleNews,Left Leaning,Apple News,3257608936
+Political Flare,username,nicolejames,Extreme Bias Left,Nicole Hickman James,14154145
+The Philadelphia Inquirer,username,PhillyInquirer,Left Leaning,The Philadelphia Inquirer,14221917
+The Western Journal,username,WestJournalism,Extreme Bias Right,The Western Journal,46520074
+The Western Journal,username,westjournalism,Extreme Bias Right,The Western Journal,46520074
+The Conservative Treehouse,username,TheLastRefuge2,Extreme Bias Right,TheLastRefuge,594886554
+The Conservative Treehouse,username,thelastrefuge2,Extreme Bias Right,TheLastRefuge,594886554
+True Pundit,username,true_pundit,Extreme Bias Right,True Pundit,3092154496
+RealClearPolitics,username,RCPolitics,Right Leaning,RealClearPolitics,20094138
+American Greatness,username,theamgreatness,Right,American Greatness,749016639287414784
+Blunt Force Truth,username,BFT_Podcast,Extreme Bias Right,Blunt Force Truth,742792681026375680
+Pajamas Media,username,PJMedia_com,Right,PJ Media,7597712
+Pajamas Media,username,pjmedia_com,Right,PJ Media,7597712
+Hill Reporter,username,HillReporter,Left,HillReporter.com,16790005
+Hill Reporter,username,hillreporter,Left,HillReporter.com,16790005
+"Just Security: Online Forum on Law, Rights, and U.S. National Security.",username,just_security,Left,Just Security,1459232030
+MaxNewsToday,username,MaxNewsToday1,Right,MaxNewsToday,1269796939320582144
+Media Matters for America,username,mmfa,Left,Media Matters,13493302
+DeadState,username,DeadStateTweets,Left,Sky Palma,614774951
+The Daily Edge,username,TheDailyEdge,Right Leaning,The Daily Edge,179732982
+The Daily Edge,username,thedailyedge,Right Leaning,The Daily Edge,179732982
+OpIndia,username,OpIndia_com,Right,OpIndia.com,74980737
+Houston Chronicle,username,HoustonChron,Left Leaning,Houston Chronicle,8940342
+Houston Chronicle,username,houstonchron,Left Leaning,Houston Chronicle,8940342
+Trending Politics,username,Trend_Politics,Right,Trending Politics,1202282198793117696
+Zee News,username,ZeeNews,Right Leaning,Zee News,461841349
+LifeSiteNews,username,LifeSite,Right,LifeSiteNews,18927538
+LifeSiteNews,username,lifesite,Right,LifeSiteNews,18927538
+Becker News,username,BeckerAcct,Extreme Bias Right,Becker Accounting,41139215
+Election Wizard,username,ElectionWiz,Right Leaning,Election Wizard,1290635110149169152
+Infobae,username,infobae,Left Leaning,infobae,69416519
+El American,username,ElAmerican_,Right Leaning,El American,1647964500174295043
+El American,username,elamerican_,Right Leaning,El American,1647964500174295043
+Gallup News,username,GallupNews,Center,GallupNews,7684882
+Gallup News,username,gallupnews,Center,GallupNews,7684882
+News Corpse,username,NewsCorpse,Left,News Corpse,91034149
+News Corpse,username,newscorpse,Left,News Corpse,91034149
+The Scotsman,username,TheScotsman,Center,The Scotsman,17680050
+The Orange County Register,username,ocregister,Right Leaning,O.C. Register,17820493
+The Daily Express,username,Daily_Express,Right,Daily Express,17895820
+The American Independent,username,AmerIndependent,Left,American Journal News,2467720274
+The American Independent,username,amerindependent,Left,American Journal News,2467720274
+SHERO,username,girlsreallyrule,Left Leaning,Amee Vanderpool,580312540
+Tampa Bay Times,username,TB_Times,Left Leaning,Tampa Bay Times,14304462
+Tampa Bay Times,username,tb_times,Left Leaning,Tampa Bay Times,14304462
+Second Nexus,username,SecondNexus,Left,Second Nexus,2544701346
+Democracy Docket,username,DemocracyDocket,Left,Democracy Docket,841489249157468161
+Democracy Docket,username,democracydocket,Left,Democracy Docket,841489249157468161
+NOQ Report,username,NoqReport,Extreme Bias Right,NOQ Report,910003499546566658
+Rantt Media,username,ranttmedia,Left,rantt,2496335227
+Rantt Media,username,RanttMedia,Left,rantt,2496335227
+Libertad Digital,username,libertaddigital,Right Leaning,Libertad Digital,27038703
+Terça Livre,username,tercalivre,Right,Terça Livre,2886474167
+Dreuz Info,username,Dreuz_1fo,Right,Dreuz.info,15972264
+Dreuz Info,username,dreuz_1fo,Right,Dreuz.info,15972264
+The Times,username,thetimes,Right Leaning,The Times and The Sunday Times,6107422
+Haaretz,username,haaretzcom,Left,Haaretz.com,24506246
+Popular Information,username,JuddLegum,Left,Judd Legum,15464697
+Popular Information,username,juddlegum,Left,Judd Legum,15464697
+Revolver News,username,RevolverNewsUSA,Right,Revolver News,1517655068232802306
+STAT,username,statnews,Right,STAT,3290364847
+The National Memo,username,NationalMemo,Left,The National Memo,310482542
+The Palm Beach Post,username,pbpost,Left Leaning,The Palm Beach Post,15736836
+The Record,username,northjersey,Left Leaning,NorthJersey.com,34677788
+The Week,username,TheWeek,Left,The Week,16439471
+The American Spectator,username,amspectator,Right,The American Spectator,16180004
+Truthout,username,truthout,Left,Truthout,19605981
+WorldNetDaily,username,worldnetdaily,Extreme Bias Right,WND News,43969372
+Crooks and Liars,username,crooksandliars,Left,Crooks and Liars,14513611
+The Courier-Journal,username,courierjournal,Left Leaning,Courier Journal,7972552
+CourtListener,username,courtlistener,Center,CourtListener,159295053
+The Times of Israel,username,TimesofIsrael,Left Leaning,The Times of Israel,432557320
+The Times of Israel,username,timesofisrael,Left Leaning,The Times of Israel,432557320
+Las Vegas Review-Journal,username,reviewjournal,Right Leaning,Las Vegas Review-Journal,15358759
+The Christian Post,username,ChristianPost,Right,The Christian Post,17214683
+The Lincoln Journal Star,username,JournalStarNews,Center,Lincoln Journal Star,23987282
+Courthouse News Service,username,CourthouseNews,Center,Courthouse News,34740650
+Courthouse News Service,username,courthousenews,Center,Courthouse News,34740650
